@@ -8,7 +8,7 @@ export default function Layout({ preview, children }) {
       <Meta />
       <div>
         <Navigation />
-        <main class="container">{children}</main>
+        <main className="container">{children}</main>
         <Footer />
       </div>
     </>
