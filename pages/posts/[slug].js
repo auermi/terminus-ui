@@ -6,7 +6,6 @@ import Container from '../../components/container'
 import Header from '../../components/header'
 import Head from 'next/head'
 import { CMS_NAME } from '../../lib/constants'
-import PostHeader from '../../components/post-header'
 import PostBody from '../../components/post-body'
 
 export default function Post({ post, morePosts, preview }) {
@@ -29,13 +28,11 @@ export default function Post({ post, morePosts, preview }) {
                   </title>
                   <meta property="og:image" content={post.ogImage.url} />
                 </Head>
-                <PostHeader
+                <PostBody
                   title={post.title}
                   coverImage={post.coverImage}
                   date={post.date}
-                  author={post.author}
-                />
-                <PostBody content={post.content} />
+                  content={post.content} />
               </article>
             </>
           )}
