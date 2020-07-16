@@ -3,16 +3,15 @@ import Layout from '../components/layout'
 const Home = () => (
   <Layout>
     <h1 className="title">Welcome to Draper!</h1>
-    <p className="description">Quill is Sigstr's design system. Quill is intended to be used across all paid products within the Sigstr platform. This includes:</p>
+    <p className="description">Draper is Terminus' design system. Draper is intended to be used across all products within the Terminus ecoysystem.</p>
     <div className="grid">
       <a href="/components" className="card">
         <h3>Components &rarr;</h3>
-        <p>Find in-depth information about Next.js features and API.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
       </a>
-
-      <a href="https://nextjs.org/learn" className="card">
+      <a href="/foundations" className="card">
         <h3>Foundations &rarr;</h3>
-        <p>Learn about Next.js in an interactive course with quizzes!</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
       </a>
     </div>
   </Layout>
