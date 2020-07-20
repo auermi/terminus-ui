@@ -1,15 +1,8 @@
-import DateFormatter from '../components/date-formatter'
-
 export default function PostBody({ title, coverImage, date, content }) {
   return (
     <>
       <a href="/components">&larr; All Components</a>
       <h1>{title}</h1>
-      <div className="max-w-2xl mx-auto">
-        <div className="mb-6 text-lg">
-          Last Updated: <DateFormatter dateString={date} />
-        </div>
-      </div>
       <div className="max-w-2xl mx-auto">
         <div
           dangerouslySetInnerHTML={{ __html: content }}
