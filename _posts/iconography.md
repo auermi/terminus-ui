@@ -1,6 +1,5 @@
 ---
 title: 'Iconography'
-coverImage: '/assets/iconography.png'
 date: '2020-03-16T05:35:07.322Z'
 ogImage:
   url: '/assets/iconography.png'
