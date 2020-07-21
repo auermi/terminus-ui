@@ -7,11 +7,9 @@ const Home = () => (
     <div className="grid">
       <a href="/components" className="card">
         <h3>Components &rarr;</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
       </a>
       <a href="/foundations" className="card">
         <h3>Foundations &rarr;</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
       </a>
     </div>
   </Layout>

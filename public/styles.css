@@ -1,3 +1,7 @@
+:root {
+  --blue-70: #005589;
+}
+
 nav {
   border-bottom: 1px solid lightgrey;
   margin-bottom: 80px;
@@ -117,8 +121,8 @@ code {
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: var(--blue-70);
+  border-color: var(--blue-70);
 }
 
 .card h3 {
@@ -164,6 +168,10 @@ main.container img {
 article p,
 article li {
   line-height: 1.4;
+}
+
+article {
+  width: 100%;
 }
 
 quote {

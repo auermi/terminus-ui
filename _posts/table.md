@@ -8,4 +8,4 @@ ogImage:
 
 Use a Table to show information in an organized fashion.
 
-<!-- Need to add information around selected states, selection actions, per-row actions, empty states -->
+<!-- Need to add information around selected states, selection actions, per-row actions, empty states, export action, column editor action, etc. -->
