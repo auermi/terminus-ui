@@ -161,7 +161,8 @@ main.container img {
   max-width: 100%;
 }
 
-article p {
+article p,
+article li {
   line-height: 1.4;
 }
 
