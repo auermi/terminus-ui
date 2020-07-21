@@ -8,7 +8,7 @@ ogImage:
 
 Use FontAwesome Solid for all icons.
 
-### Accessiblity considerations
+### Accessibility considerations
 - Icons without adjacent text require a title attribute to explain their purpose in contrast with vanity icons that repeat or clarify the meaning of adjacent text.
 - Icons should not be smaller than 10px.
 - If inlining the SVG, add role="img" so screen readers don't skip over it.

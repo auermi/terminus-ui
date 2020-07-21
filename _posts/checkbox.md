@@ -6,4 +6,4 @@ ogImage:
   url: '/assets/checkbox.png'
 ---
 
-Use checkboxes to allow users to select a number of options. This includes no options, a single option or multiple. Each checkbox is independent of all other checkboxes in the list, and checking one box does nott uncheck the others. Checkboxes require the use of a button to apply the settings once they are selected.
+Use checkboxes to allow users to select a number of options. This includes no options, a single option or multiple. Each checkbox is independent of all other checkboxes in the list, and checking one box does not un-check the others. Checkboxes require the use of a button to apply the settings once they are selected.
