@@ -1,7 +1,7 @@
 export default function PostBody({ title, coverImage, date, content }) {
   return (
     <>
-      <a href="/components">&larr; All Components</a>
+      <a href="/">&larr; Home</a>
       <h1>{title}</h1>
       <div>
         <div

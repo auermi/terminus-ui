@@ -6,4 +6,4 @@ ogImage:
   url: '/assets/tooltip.png'
 ---
 
-Use Tooltips to offer the user additional information. Tooltips used to clarify what a component does or what an icon means should be brief and without punctuation. Longer tooltips containing explanations or  descriptions should be used sparingly. But, when used, be sure to use proper punctuation and grammar.
+Use Tooltips to offer the user additional information. Tooltips are used to clarify what a component does or what an icon means should be brief and without punctuation. Longer tooltips containing explanations or  descriptions should be used sparingly. But, when used, be sure to use proper punctuation and grammar.

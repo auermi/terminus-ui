@@ -5,7 +5,7 @@ ogImage:
   url: '/assets/iconography.png'
 ---
 
-Use FontAwesome Solid for all icons.
+Use FontAwesome 5 Solid for all icons.
 
 ### Accessibility considerations
 - Icons without adjacent text require a title attribute to explain their purpose in contrast with vanity icons that repeat or clarify the meaning of adjacent text.
